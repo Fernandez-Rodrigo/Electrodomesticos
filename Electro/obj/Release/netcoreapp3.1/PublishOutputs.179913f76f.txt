@@ -1,5 +1,0 @@
-D:\ToTy\Escritorio\Electrod\Electro.exe
-D:\ToTy\Escritorio\Electrod\Electro.dll
-D:\ToTy\Escritorio\Electrod\Electro.deps.json
-D:\ToTy\Escritorio\Electrod\Electro.runtimeconfig.json
-D:\ToTy\Escritorio\Electrod\Electro.pdb
