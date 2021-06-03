@@ -1,0 +1,16 @@
+C:\Users\ToTy\source\repos\Electro\Electro\bin\Release\netcoreapp3.1\Electro.exe
+C:\Users\ToTy\source\repos\Electro\Electro\bin\Release\netcoreapp3.1\Electro.deps.json
+C:\Users\ToTy\source\repos\Electro\Electro\bin\Release\netcoreapp3.1\Electro.runtimeconfig.json
+C:\Users\ToTy\source\repos\Electro\Electro\bin\Release\netcoreapp3.1\Electro.runtimeconfig.dev.json
+C:\Users\ToTy\source\repos\Electro\Electro\bin\Release\netcoreapp3.1\Electro.dll
+C:\Users\ToTy\source\repos\Electro\Electro\bin\Release\netcoreapp3.1\Electro.pdb
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.csprojAssemblyReference.cache
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.Form1.resources
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.Properties.Resources.resources
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.csproj.GenerateResource.cache
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.AssemblyInfoInputs.cache
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.AssemblyInfo.cs
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.csproj.CoreCompileInputs.cache
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.dll
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.pdb
+C:\Users\ToTy\source\repos\Electro\Electro\obj\Release\netcoreapp3.1\Electro.genruntimeconfig.cache
